@@ -1,0 +1,2 @@
+# getgo
+Install Golang
